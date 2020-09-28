@@ -1,0 +1,11 @@
+export default {
+  OFF_BLACK: '#121214',
+  BLACK: '#000000',
+  WHITE: '#FFFFFF',
+  PURPLE: '#8257e6',
+  PRIMARY_GRAY: '#969696',
+  SECONDARY_GRAY: '#e1e1e6',
+  PRIMARY_BLUE: '#149FEC',
+  SECONDARY_BLUE: '#00B0F0',
+  RED: '#E30808',
+};
